@@ -1,0 +1,3 @@
+/Users/ganapathynagasubramaniam/Desktop/Smith Projects/Project 1 Core Implementation - Bishop Cidercade Database/cmake-build-debug/CMakeFiles/Project_1_Core_Implementation___Bishop_Cidercade_Database.dir
+/Users/ganapathynagasubramaniam/Desktop/Smith Projects/Project 1 Core Implementation - Bishop Cidercade Database/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ganapathynagasubramaniam/Desktop/Smith Projects/Project 1 Core Implementation - Bishop Cidercade Database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
