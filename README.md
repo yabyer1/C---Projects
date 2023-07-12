@@ -1,5 +1,5 @@
 # C++ Projects + Extra Side Coding
-The projects featured are all projects I worked on during the first half of my Freshman year
+The projects featured are all projects I worked on 
 
 
 # The 4 Main Projects Include:
