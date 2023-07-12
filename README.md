@@ -1,8 +1,8 @@
-# Java-Projects-Pt.1
+# C++ Projects + Extra Side Coding
 The projects featured are all projects I worked on during the first half of my Freshman year
 
 
-The 4 Main Projects Include:
+# The 4 Main Projects Include:
 
 •	Created Calculator that uses a self-implemented Stack Class operating as a Linked List which takes in string inputs of equations, converts to postfix expression, and then calculates to yield the correct answer. 
 
